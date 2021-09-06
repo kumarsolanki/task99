@@ -1,0 +1,24 @@
+.headerPage {
+  background: #33a8ff;
+  background-position: center top;
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 24px;
+}
+
+.pageBottom {
+  background: white;
+  background-position: center top;
+  height: 64px;
+  display: flex;
+  justify-content: space-between;
+  padding-right: 800px;
+  padding-left: 400px;
+}
+
+.container-details {
+  display: flex;
+  justify-content: space-between;
+  padding: 8px 20px;
+}

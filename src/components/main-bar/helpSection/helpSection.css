@@ -1,0 +1,75 @@
+.communitytitle {
+    padding-left: 25px;
+    padding-top: 8px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 700;
+    text-transform: none;
+    background-color: #075692;
+    color: white
+}
+
+.communityData {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 20px;
+}
+
+.helpSection {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+}
+
+.titleText {
+    font-family: Noto Sans, Arial, sans-serif;
+    font-size: 14px;
+    line-height: 21px;
+    font-weight: 400;
+    word-wrap: break-word;
+    margin-bottom: 10px;
+}
+
+.policyContent {
+    margin-top: 10px;
+    padding-left: 50px;
+}
+
+.policyContentFooter {
+    /* margin-top: 10px;
+    padding-left: 20px; 
+    background-color: #075692;  */
+    padding-left: 25px;
+    padding-top: 8px;
+    height: 30px;
+    font-size: 14px;
+    line-height: 18px;
+    font-weight: 700;
+    text-transform: none;
+    background-color: #075692;
+    color: white
+}
+
+.hoverable-online {
+    margin-right: 20px;
+}
+
+.hoverable:hover {
+    border: 1px solid rgb(125, 190, 255);
+}
+
+.hoverable-online:hover {
+    border: 1px solid rgb(125, 190, 255);
+}
+
+.policyContentFooter:hover {
+    background-color: #33a8ff;
+    border: 1px solid rgb(125, 190, 255);
+}
